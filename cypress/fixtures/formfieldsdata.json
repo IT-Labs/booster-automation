@@ -1,0 +1,16 @@
+{
+    "addFormFieldsData":[
+        {
+            "inputname":"Something1",
+            "inputnumber":"Decimal",
+            "inputemail":"email1@email.com",
+            "inputtext":"some random text1"
+        },
+        {
+            "inputname":"Something2",
+            "inputnumber":"Decimal",
+            "inputemail":"email1@email.com",
+            "inputtext":"some random text2"
+        }
+    ]
+}
